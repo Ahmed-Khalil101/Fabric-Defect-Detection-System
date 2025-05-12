@@ -2,12 +2,12 @@
 The Automated Fabric Defect Detection Tool helps textile manufacturers identify fabric defects (tears, spots, weave inconsistencies) using image processing techniques like edge detection, thresholding, and contour analysis. It automates inspection, improves accuracy, and reduces reliance on manual checks, enhancing quality control efficiency.
 
 Team Names + IDs :
- Ahmed hossam eldin nazmy 202201490
- Ahmed Adel Ahmed Khalil 202202565
- Ahmed Magdy Mahmoud El Khatib 202201913
- Ibrahim medhat ibrahim mady 202204875
- Khaled Walid Samir 202200533
- Khaled Mohammed Mahmoud 202202643
+ - Ahmed hossam eldin nazmy 202201490
+ - Ahmed Adel Ahmed Khalil 202202565
+ - Ahmed Magdy Mahmoud El Khatib 202201913
+ - Ibrahim medhat ibrahim mady 202204875
+ - Khaled Walid Samir 202200533
+ - Khaled Mohammed Mahmoud 202202643
 
 Expected Results (if you run the code)
 Since it uses synthetically generated data, the results can vary slightly depending on randomness. However, you can expect something like:
