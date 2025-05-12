@@ -40,3 +40,16 @@ Classification Report:
 weighted avg       1.00      1.00      1.00        40
  Model File Saved:
 fabric_defect_model.h5: The trained model.
+
+
+![training_history](https://github.com/user-attachments/assets/3ab030d6-9143-4874-bec7-16fe7d4cd776)
+
+
+
+
+
+
+
+![confusion_matrix](https://github.com/user-attachments/assets/998e4b96-c509-4fcb-b429-57d08e2f34b3)
+
+
