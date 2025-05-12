@@ -9,8 +9,7 @@ Team Names + IDs :
  - Khaled Walid Samir 202200533
  - Khaled Mohammed Mahmoud 202202643
 
-Expected Results (if you run the code)
-Since it uses synthetically generated data, the results can vary slightly depending on randomness. However, you can expect something like:
+Expected Results :
 
 Training/Validation Accuracy (after 20 epochs):
 
