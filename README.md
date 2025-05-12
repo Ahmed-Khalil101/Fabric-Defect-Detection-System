@@ -3,18 +3,19 @@ The Automated Fabric Defect Detection Tool helps textile manufacturers identify 
 Expected Results (if you run the code)
 Since it uses synthetically generated data, the results can vary slightly depending on randomness. However, you can expect something like:
 
-✅ Training/Validation Accuracy (after 20 epochs):
+Training/Validation Accuracy (after 20 epochs):
 
 Training Accuracy: ~98–100%
 Validation Accuracy: ~90–98%
-📈 Training History:
+
+Training History:
 Two plots saved and displayed:
 
 training_history.png: Accuracy and loss curves
 
 confusion_matrix.png: Visual representation of prediction correctness
 
-📄 Classification Report:
+ Classification Report:
 plaintext
 Copy
 Edit
