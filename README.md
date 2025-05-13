@@ -44,6 +44,7 @@ fabric_defect_model.h5: The trained model.
 
 ![training_history](https://github.com/user-attachments/assets/3ab030d6-9143-4874-bec7-16fe7d4cd776)
 
+   
 
 
 
