@@ -53,4 +53,3 @@ fabric_defect_model.h5: The trained model.
 ![confusion_matrix](https://github.com/user-attachments/assets/998e4b96-c509-4fcb-b429-57d08e2f34b3)
 
 
-a
