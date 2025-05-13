@@ -39,7 +39,7 @@ Classification Report:
    macro avg       1.00      1.00      1.00        40
 weighted avg       1.00      1.00      1.00        40
  Model File Saved:
-fabric_defect_model.h5: The trained model.
+fabric_defect_model.h5: The trained model. okkkkk
 
 
 ![training_history](https://github.com/user-attachments/assets/3ab030d6-9143-4874-bec7-16fe7d4cd776)
